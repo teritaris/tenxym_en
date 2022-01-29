@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"町２","order":40,"parentId":0,"scrollX":451,"scrollY":1682},
-{"id":2,"expanded":true,"name":"村１","order":1,"parentId":0,"scrollX":795,"scrollY":900},
+{"id":1,"expanded":false,"name":"町２","order":40,"parentId":0,"scrollX":1404,"scrollY":1610},
+{"id":2,"expanded":true,"name":"村１","order":1,"parentId":0,"scrollX":803,"scrollY":968},
 {"id":3,"expanded":false,"name":"民家１","order":2,"parentId":2,"scrollX":451,"scrollY":312},
-{"id":4,"expanded":false,"name":"民家２","order":3,"parentId":2,"scrollX":451,"scrollY":312},
+{"id":4,"expanded":false,"name":"民家２","order":3,"parentId":2,"scrollX":619,"scrollY":356.5},
 {"id":5,"expanded":false,"name":"宿屋","order":4,"parentId":2,"scrollX":501,"scrollY":380},
 {"id":6,"expanded":false,"name":"道具屋","order":5,"parentId":2,"scrollX":451,"scrollY":312},
 {"id":7,"expanded":false,"name":"武具屋","order":6,"parentId":2,"scrollX":811,"scrollY":458},
