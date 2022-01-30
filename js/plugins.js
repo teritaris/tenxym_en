@@ -4,5 +4,7 @@ var $plugins =
 [
 {"name":"OnlineAvatar","status":true,"description":"Firebaseを使ってプレイヤーをオンライン同期します。","parameters":{"apiKey":"AIzaSyChwbgLFJFYBdpf-qeWPLEV_PQZXHaXlpw","authDomain":"rpgcreation-70a80.firebaseapp.com","databaseURL":"https://rpgcreation-70a80-default-rtdb.firebaseio.com","avatarEvent":"1","syncSwitchStart":"11","syncSwitchEnd":"20","syncVariableStart":"11","syncVariableEnd":"20"}},
 {"name":"111_InputForm","status":true,"description":"フォーム作って文字入力（修正版）","parameters":{}},
-{"name":"TMNamePop","status":true,"description":"イベントの頭上に文字列を表示する機能を追加します。","parameters":{"backOpacity":"96","fontSize":"20","outlineWidth":"4","outlineColor":"rgba(0, 0, 0, 0.5)","width":"160","roundRectRadius":"6"}}
+{"name":"TMNamePop","status":true,"description":"イベントの頭上に文字列を表示する機能を追加します。","parameters":{"backOpacity":"96","fontSize":"20","outlineWidth":"4","outlineColor":"rgba(0, 0, 0, 0.5)","width":"160","roundRectRadius":"6"}},
+{"name":"test","status":true,"description":"フォーム作って文字入力（修正版）","parameters":{}},
+{"name":"EnemyBook","status":true,"description":"モンスター図鑑です。敵キャラの詳細なステータスを表示します。","parameters":{"Unknown Data":"？？？？？？"}}
 ];
