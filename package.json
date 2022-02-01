@@ -3,7 +3,7 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb",
     "window": {
-        "title": "onlinetest",
+        "title": "異世界転生したら法定通貨がXYMだった件",
         "width": 816,
         "height": 624,
         "position": "center",
