@@ -9,11 +9,11 @@
     const networkType = symbol.NetworkType.TEST_NET;
     const networkGenerationHash = "7FCCD304802016BEBBCD342A332F91FF1F3BB5E902988B352697BE245F48E836"
 
-    const repositoryFactory = new RepositoryFactoryHttp(nodeUrl, {
+    const repositoryFactory = new symbol.RepositoryFactoryHttp(nodeUrl, {
         websocketUrl: 'ws://sym-test-01.opening-line.jp:3000/ws',
         websocketInjected: WebSocket
     });
-    
+
     const listener = repositoryFactory.createListener();
     const raw_address = 'TDCPHIHQPN6WKJJIUCOFISJCB4NULEZOS4NCQQQ'; //revokeされるアドレス
 
