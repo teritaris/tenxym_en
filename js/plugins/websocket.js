@@ -10,7 +10,7 @@
     const networkGenerationHash = "7FCCD304802016BEBBCD342A332F91FF1F3BB5E902988B352697BE245F48E836"
 
     const repositoryFactory = new symbol.RepositoryFactoryHttp(nodeUrl, {
-        websocketUrl: 'https://sym-test-01.opening-line.jp:3000/ws',
+        websocketUrl: 'wss://sym-test-01.opening-line.jp:3000/ws',
         websocketInjected: WebSocket
     });
 
