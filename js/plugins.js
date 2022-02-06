@@ -13,5 +13,6 @@ var $plugins =
 {"name":"NRP_OverpassTile","status":false,"description":"v1.021 高機能な立体交差を実現します。","parameters":{"OverPathRegion":"0","OverPathTerrainTag":"0","GatewayRegion":"0","GatewayTerrainTag":"0","ConsiderLadder":"true"}},
 {"name":"EventInformation","status":false,"description":"イベントの頭上に文字を表示したい時に使います","parameters":{}},
 {"name":"websocket","status":false,"description":"イベントの頭上に文字を表示したい時に使います","parameters":{}},
-{"name":"CommonInterceptor","status":true,"description":"割り込みコモンイベントプラグイン","parameters":{"ニューゲームコモン":"11","ロードコモン":"0","メニューコモン":"0"}}
+{"name":"CommonInterceptor","status":true,"description":"割り込みコモンイベントプラグイン","parameters":{"ニューゲームコモン":"11","ロードコモン":"0","メニューコモン":"0"}},
+{"name":"TMNamePop2","status":true,"description":"イベントの頭上に文字列を表示する機能を追加します。","parameters":{"backOpacity":"96","fontSize":"20","outlineWidth":"4","outlineColor":"rgba(0, 0, 0, 0.5)","width":"160","roundRectRadius":"6"}}
 ];
