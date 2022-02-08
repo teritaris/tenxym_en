@@ -126,5 +126,5 @@ null,
 {"id":124,"expanded":false,"name":"風の洞窟内部３","order":89,"parentId":119,"scrollX":1109,"scrollY":1459},
 {"id":125,"expanded":false,"name":"風の洞窟内部４","order":90,"parentId":119,"scrollX":811,"scrollY":907},
 {"id":126,"expanded":true,"name":"マネキンルーム","order":37,"parentId":37,"scrollX":554.5,"scrollY":568.5},
-{"id":127,"expanded":true,"name":"実験部屋","order":1,"parentId":0,"scrollX":554.5,"scrollY":501.5}
+{"id":127,"expanded":true,"name":"実験部屋","order":1,"parentId":0,"scrollX":562.5,"scrollY":501.5}
 ]
