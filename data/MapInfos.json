@@ -130,5 +130,5 @@ null,
 {"id":128,"expanded":false,"name":"【開発】冒険者ギルド１Ｆーロビー","order":2,"parentId":127,"scrollX":524.5,"scrollY":672.5},
 {"id":129,"expanded":false,"name":"冒険者ギルド１Ｆーロビー","order":3,"parentId":127,"scrollX":567,"scrollY":523},
 {"id":130,"expanded":true,"name":"冒険者ギルド１Ｆーロビー","order":4,"parentId":127,"scrollX":524.5,"scrollY":672.5},
-{"id":131,"expanded":true,"name":"オンチェーンの間","order":40,"parentId":37,"scrollX":555.5,"scrollY":436.5}
+{"id":131,"expanded":true,"name":"オンチェーンの間","order":40,"parentId":37,"scrollX":555.5,"scrollY":412.5}
 ]
