@@ -14,5 +14,6 @@ var $plugins =
 {"name":"EventInformation","status":false,"description":"イベントの頭上に文字を表示したい時に使います","parameters":{}},
 {"name":"websocket","status":false,"description":"イベントの頭上に文字を表示したい時に使います","parameters":{}},
 {"name":"CommonInterceptor","status":true,"description":"割り込みコモンイベントプラグイン","parameters":{"ニューゲームコモン":"11","ロードコモン":"12","メニューコモン":"0"}},
-{"name":"TMNamePop2","status":true,"description":"イベントの頭上に文字列を表示する機能を追加します。","parameters":{"backOpacity":"96","fontSize":"20","outlineWidth":"4","outlineColor":"rgba(0, 0, 0, 0.5)","width":"160","roundRectRadius":"6"}}
+{"name":"TMNamePop2","status":true,"description":"イベントの頭上に文字列を表示する機能を追加します。","parameters":{"backOpacity":"96","fontSize":"20","outlineWidth":"4","outlineColor":"rgba(0, 0, 0, 0.5)","width":"160","roundRectRadius":"6"}},
+{"name":"DTextPicture","status":true,"description":"動的文字列ピクチャ生成プラグイン","parameters":{"frameWindowSkin":"","frameWindowPadding":"18","padCharacter":"0","prefixText":"","widthVariable":"0","heightVariable":"0"}}
 ];
