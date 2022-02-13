@@ -1,4 +1,3 @@
-# kakeyokonnectMZ.github.io
 # クレジット
 サンプルマッププラスMZ版
 HanapapaStudio
