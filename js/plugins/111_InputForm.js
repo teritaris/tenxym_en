@@ -18,18 +18,18 @@
  * イベントコマンドの「名前入力の処理」とは違い、
  * 慣れ親しんだキーボード入力やフリック入力などを用いられます。
  * また、漢字を含む自由な文字が入力できます。
- * 
+ *
  * ---準備---
  * ゲームフォルダにあるcssフォルダ（なければ作る）に111_InputForm.cssを入れましょう。
  * ちなみにこのファイルをいじって入力フォームのデザイン・幅などを変えられます。
  * いじり方がわからなかったら「css 書き方」などで検索だ！
- * 
+ *
  * ---RPGツクールMZでの使い方---
  * プラグインコマンドを用いて、入力欄を表示できます。
  * 最低限「入力欄のX位置」「入力欄のY位置」で表示位置を調整して、
  * 「入力結果の代入先」に変数を設定すれば動きます。
  * 必要なら他のパラメータも調節してみてください。
- * 
+ *
  * ---RPGツクールMVでの使い方---
  * ◆プラグインコマンド：InputForm x=350;y=200;v=11;max=5;
  * みたいな感じで。この例だとx350,y200の位置に表示、結果を11番の変数に保存。
@@ -220,7 +220,7 @@
                     this.submit = document.createElement('input');
                     this.submit.setAttribute('type', 'submit');
                     this.submit.setAttribute('id', '_111_submit');
-                    this.submit.setAttribute('value', '決定');
+                    this.submit.setAttribute('value', 'Submit');
                     document.body.appendChild(this.submit);
                 } ,
                 success : function(){
